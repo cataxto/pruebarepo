@@ -1,0 +1,25 @@
+footer {
+    width: 100%;
+}
+
+.iconosredes {
+    text-align: center;
+    margin-top: -45px;
+
+}
+
+.ajusteicono {
+    display: inline-flex;
+    margin: 20px 30px;
+}
+
+.textofooter {
+    padding-top: 10px;
+    width: 100%;
+    font-family: tahoma;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    background-color: rgba(0,0,255,0.50);
+    height: 80px;
+}
